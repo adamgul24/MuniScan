@@ -55,7 +55,7 @@ python muniscan.py
 
 4. **View Results:**
 - Results are saved to the `output/` folder as JSON and CSV.
-- Logs are available in `output/muniscan.log`.
+- Logs are available in `muniscan.log`.
 
 ## Notes
 - Ensure ZAP and Burp Suite are properly configured.
