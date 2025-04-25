@@ -1,2 +1,9 @@
-http://localhost:3000
-http://localhost:4000
+# MuniScan Target List Example
+# ---------------------------------------
+# Place one target URL per line.
+# Recommended: Only test systems you own or have permission to scan.
+
+http://example.com                   # <-- Replace with your target
+http://test.local:8080               # <-- Another example target
+
+# ⚠️ NOTE: Do not use this tool on production systems without explicit permission.
